@@ -3,7 +3,7 @@
 Welcome to my very first online-portfolio!
 
 In this repository I have and will release my personal programming projects.
-I have added a separate folder for the source-codes of those projects, as well as a separate folder incluging screenshots of running programs.
+I have added a separate folder for the source-codes of those projects, as well as a separate folder including screenshots of running programs.
 Be informed, that so far every single released project is a work in progress. I also have a personal project of turning Twilight Imperium 4th edition by Fantasy Flight Games
 into a software version, But I will retain from uploading anything copyright-protected here. I have uploaded screenshots of the program with blurred graphics.
 The project is for my personal use only.
