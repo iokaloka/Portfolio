@@ -4,7 +4,9 @@ Welcome to my very first online-portfolio!
 
 In this repository I have and will release my personal programming projects.
 I have added a separate folder for the source-codes of those projects, as well as a separate folder incluging screenshots of running programs.
-Be informed, that so far every single released project is a work in progress.
+Be informed, that so far every single released project is a work in progress. I also have a personal project of turning Twilight Imperium 4th edition by Fantasy Flight Games
+into a software version, But I will retain from uploading anything copyright-protected here. I have uploaded screenshots of the program with blurred graphics.
+The project is for my personal use only.
 
 
 ## About me
@@ -28,8 +30,11 @@ possible for me to compose and record my own musical pieces for my projects. Sin
 2. I got familiar with GarageBand and practised recording with it. This is how for exaple, Guilt Spawn theme song was created (In background of menu in Guilt Spawn v.0.2).
 3. I have also played as a lead guitarist in 2 bands during 2008 - 2013 and recorded with both.
 
+
 ### Graphics
 1. I have drawn anmd painted through my whole life. I am far from pro, but manage to draft characters, environments, situations, beasts and such.
 2. I have begun my self studies regarding 3D-modeling with Blender.
 3. Mostly my own projects have used 2D-graphics and I have managed with paint.net's layering features.
 4. I also used to photograph during 2009 - 2011.
+
+
