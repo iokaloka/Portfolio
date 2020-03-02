@@ -1,4 +1,35 @@
-# Portfolio
-This is my first online portfolio.
-Unfortunately it is impossible to find all my past works and projects,
-but I will submit all that I still know to exist.
+# Portfolio by Jonathan Kähönen
+
+Welcome to my very first online-portfolio!
+
+In this repository I have and will release my personal programming projects.
+I have added a separate folder for the source-codes of those projects, as well as a separate folder incluging screenshots of running programs.
+Be informed, that so far every single released project is a work in progress.
+
+
+##About me
+I am a 29 years old programming from Finland. I started programming as a hobby in 2014 when my room mate jokingly stated that "We should learn how to program".
+in 2016 I applied and passed the exam to become a Computer science student at the University of Helsinki. Even though my studies have been stalled after the first year,
+I have been practising and improving my skills through my own projects and small on-demand programs. My passion is video-game developement. Since I have been drawing and painting
+through my whole life, I can easily draft well-enough graphics to support my game-developing progress. 14 years of playing guitar and some other instruments have also made it
+possible for me to compose and record my own musical pieces for my projects. Since I have alvays been a good learner I believe that anything can be learned... But not everything.
+
+##My competences
+
+
+###Programming
+-Java has been my main languange ever since I started programming. To support this claim: Java programming 5/5, Advanced Java 5/5, Java demo-assignment 4/5 (Because I slacked in documenting).
+-Before Java I actually passed a Aalto-University course Scala-programming with a grade 5/5.
+-During my first year in school I got to know basics of Databases, SQL, HTML, Markdown, python, c, c++, JavaScript and ruby.
+
+
+###Music
+-As I previously mentioned, I have played guitar for 14 years now. During that time I have also practised with Keyboard/piano and bass.
+-I got familiar with GarageBand and practised recording with it. This is how for exaple, Guilt Spawn theme song was created (In background of menu in Guilt Spawn v.0.2).
+-I have also played as a lead guitarist in 2 bands during 2008 - 2013 and recorded with both.
+
+###Graphics
+-I have drawn anmd painted through my whole life. I am far from pro, but manage to draft characters, environments, situations, beasts and such.
+-I have begun my self studies regarding 3D-modeling with Blender.
+-Mostly my own projects have used 2D-graphics and I have managed with paint.net's layering features.
+-I also used to photograph during 2009 - 2011.
