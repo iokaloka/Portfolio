@@ -10,7 +10,7 @@ The project is for my personal use only.
 
 
 ## About me
-I am a 29 years old programming from Finland. I started programming as a hobby in 2014 when my room mate jokingly stated that "We should learn how to program".
+I am 29 years old programmer from Finland. I started programming as a hobby in 2014 when my room mate jokingly stated that "We should learn how to program".
 in 2016 I applied and passed the exam to become a Computer science student at the University of Helsinki. Even though my studies have been stalled after the first year,
 I have been practising and improving my skills through my own projects and small on-demand programs. My passion is video-game developement. Since I have been drawing and painting
 through my whole life, I can easily draft well-enough graphics to support my game-developing progress. 14 years of playing guitar and some other instruments have also made it
