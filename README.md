@@ -32,7 +32,7 @@ possible for me to compose and record my own musical pieces for my projects. Sin
 
 
 ### Graphics
-1. I have drawn anmd painted through my whole life. I am far from pro, but manage to draft characters, environments, situations, beasts and such.
+1. I have drawn and painted through my whole life. I am far from pro, but manage to draft characters, environments, situations, beasts and such.
 2. I have begun my self studies regarding 3D-modeling with Blender.
 3. Mostly my own projects have used 2D-graphics and I have managed with paint.net's layering features.
 4. I also used to photograph during 2009 - 2011.
